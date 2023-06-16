@@ -1,0 +1,45 @@
+# .NET Core / .NET Standard
+## Build output
+bin/
+obj/
+
+## Visual Studio / Visual Studio Code
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.cachefile
+*.DotSettings.user
+*.snk
+*.bak
+*.cache
+*.resharper
+*.resharper.user
+*.resharper.user.xm
+_ReSharper*/
+*.dotCover
+*.tcprofile
+*.testsettings
+TestResults/
+[Bb]uild/
+
+## NuGet
+packages/
+*.nupkg
+*.pdb
+*.dll.config
+
+## Others
+[Tt]est[Rr]esult*/
+*.VisualState.xml
+Version.txt
+TestCertificate.pfx
+*.cache
+_clientpfx.pfx
+.vs/
